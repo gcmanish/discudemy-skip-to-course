@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Link Replacer for discudemy.com",
+  "version": "1.0",
+  "description": "Replaces links on discudemy.com",
+  "content_scripts": [
+    {
+      "matches": ["https://www.discudemy.com/*", "http://www.discudemy.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": ["activeTab"]
+}
