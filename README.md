@@ -28,8 +28,8 @@ This Chrome extension streamlines the process of accessing Udemy courses from th
 
 ## Limitations
 
-The extension's functionality relies on the specific structure of DiscUdemy. Changes to the website's layout or link patterns might affect the extension's behavior.
-The extension might not handle all edge cases or complex link structures.
+- The extension's functionality relies on the specific structure of DiscUdemy. Changes to the website's layout or link patterns might affect the extension's behavior.
+- The extension might not handle all edge cases or complex link structures.
 
 ## License
 MIT License
